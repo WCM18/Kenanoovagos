@@ -1,0 +1,42 @@
+2019-12-06T10:56:18+00:00 CRITICAL syntax error, unexpected '<' in C:\New\htdocs\kenanovagos.test\wp-content\themes\Kenonavagos\footer.php on line 52
+
+2019-12-06T11:40:58+00:00 CRITICAL Uncaught Error: Call to undefined method SB_Instagram_Display_Elements::get_icon() in C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\templates\header.php:36
+Stack trace:
+#0 C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\templates\feed.php(28): include()
+#1 C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\inc\class-sb-instagram-feed.php(998): include('C:\\New\\htdocs\\k...')
+#2 C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\inc\if-functions.php(164): SB_Instagram_Feed->get_the_feed_html(Array, '', Array, Array)
+#3 C:\New\htdocs\kenanovagos.test\wp-includes\shortcodes.php(325): display_instagram('', '', 'instagram-feed')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 C:\New\htdocs\kenanovagos.test\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(instag...', 'do_shortcode_ta...', '\n<p>This is an ...')
+#6 C:\New\htdocs\kenanovagos.test\wp-includes\class-wp-hook.php(286): do_shortcode('\n<p>This in C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\templates\header.php on line 36
+
+2019-12-06T11:41:19+00:00 CRITICAL Uncaught Error: Call to undefined method SB_Instagram_Display_Elements::get_icon() in C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\templates\header.php:36
+Stack trace:
+#0 C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\templates\feed.php(28): include()
+#1 C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\inc\class-sb-instagram-feed.php(998): include('C:\\New\\htdocs\\k...')
+#2 C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\inc\if-functions.php(164): SB_Instagram_Feed->get_the_feed_html(Array, '', Array, Array)
+#3 C:\New\htdocs\kenanovagos.test\wp-includes\shortcodes.php(325): display_instagram('', '', 'instagram-feed')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 C:\New\htdocs\kenanovagos.test\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(instag...', 'do_shortcode_ta...', '\n<p>This is an ...')
+#6 C:\New\htdocs\kenanovagos.test\wp-includes\class-wp-hook.php(286): do_shortcode('\n<p>This in C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\templates\header.php on line 36
+
+2019-12-06T11:41:35+00:00 CRITICAL Uncaught Error: Call to undefined method SB_Instagram_Display_Elements::get_icon() in C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\templates\header.php:36
+Stack trace:
+#0 C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\templates\feed.php(28): include()
+#1 C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\inc\class-sb-instagram-feed.php(998): include('C:\\New\\htdocs\\k...')
+#2 C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\inc\if-functions.php(164): SB_Instagram_Feed->get_the_feed_html(Array, '', Array, Array)
+#3 C:\New\htdocs\kenanovagos.test\wp-includes\shortcodes.php(325): display_instagram('', '', 'instagram-feed')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 C:\New\htdocs\kenanovagos.test\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(instag...', 'do_shortcode_ta...', '\n<p>This is an ...')
+#6 C:\New\htdocs\kenanovagos.test\wp-includes\class-wp-hook.php(286): do_shortcode('\n<p>This in C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\templates\header.php on line 36
+
+2019-12-06T11:43:02+00:00 CRITICAL Uncaught Error: Call to undefined method SB_Instagram_Display_Elements::get_icon() in C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\templates\header.php:36
+Stack trace:
+#0 C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\templates\feed.php(28): include()
+#1 C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\inc\class-sb-instagram-feed.php(998): include('C:\\New\\htdocs\\k...')
+#2 C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\inc\if-functions.php(164): SB_Instagram_Feed->get_the_feed_html(Array, '', Array, Array)
+#3 C:\New\htdocs\kenanovagos.test\wp-includes\shortcodes.php(325): display_instagram('', '', 'instagram-feed')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 C:\New\htdocs\kenanovagos.test\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(instag...', 'do_shortcode_ta...', '\n<p>This is an ...')
+#6 C:\New\htdocs\kenanovagos.test\wp-includes\class-wp-hook.php(286): do_shortcode('\n<p>This in C:\New\htdocs\kenanovagos.test\wp-content\plugins\instagram-feed-master\templates\header.php on line 36
+

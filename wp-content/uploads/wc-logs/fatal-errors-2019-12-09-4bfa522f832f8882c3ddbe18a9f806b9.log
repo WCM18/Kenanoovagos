@@ -1,0 +1,14 @@
+2019-12-09T13:06:49+00:00 CRITICAL syntax error, unexpected end of file in C:\New\htdocs\kenanovagos.test\wp-content\themes\Kenonavagos\footer.php on line 148
+
+2019-12-09T13:08:20+00:00 CRITICAL syntax error, unexpected end of file in C:\New\htdocs\kenanovagos.test\wp-content\themes\Kenonavagos\footer.php on line 148
+
+2019-12-09T13:18:40+00:00 CRITICAL Error locating /inc/contact.php for inclusion in C:\New\htdocs\kenanovagos.test\wp-content\themes\Kenonavagos\functions.php on line 35
+
+2019-12-09T13:51:09+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\New\htdocs\kenanovagos.test\wp-content\themes\Kenonavagos\sidebar-templates\sidebar-right.php on line 16
+
+2019-12-09T13:51:40+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\New\htdocs\kenanovagos.test\wp-content\themes\Kenonavagos\sidebar-templates\sidebar-right.php on line 16
+
+2019-12-09T13:51:51+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\New\htdocs\kenanovagos.test\wp-content\themes\Kenonavagos\sidebar-templates\sidebar-right.php on line 16
+
+2019-12-09T13:52:18+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\New\htdocs\kenanovagos.test\wp-content\themes\Kenonavagos\sidebar-templates\sidebar-right.php on line 16
+
